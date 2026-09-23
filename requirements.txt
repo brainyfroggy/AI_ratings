@@ -1,0 +1,9 @@
+openai
+opencv-python-headless
+pillow
+pandas
+numpy
+scipy
+matplotlib
+tqdm
+anthropic  # optional: only needed for --llm claude / rate_with_claude
